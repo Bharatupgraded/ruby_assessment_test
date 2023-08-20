@@ -20,3 +20,4 @@ or a student_teacher if it does both things
 * Have a basic idea of how the code works
 
 * Understand how models should interact
+# ruby_assessment_test
